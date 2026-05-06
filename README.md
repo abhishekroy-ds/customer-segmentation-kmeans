@@ -33,8 +33,6 @@ To group customers into different segments for targeted marketing strategies.
 - Applying K-Means Clustering
 - Visualization of clusters
 
-![image alt](images/elbow.png](https://github.com/abhishekroy-ds/customer-segmentation-kmeans/blob/2248d3a5afa36ac42360590cec7ad4620aebea5b/The%20clusters.png)
-
 ## Results
 - Identified 5 customer segments
 - High-income, high-spending customers
