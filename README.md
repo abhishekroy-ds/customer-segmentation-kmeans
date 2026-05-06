@@ -34,7 +34,10 @@ To group customers into different segments for targeted marketing strategies.
 - Visualization of clusters
 
 ## Results
-Successfully segmented customers into multiple groups based on spending behavior.
+Identified 5 customer segments
+High-income high-spending customers
+Low-income low-spending customers
+Potential target groups for marketing campaigns
 
 ## How to Run
 1. Clone the repository
